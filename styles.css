@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-07-31, 16:15:57
+    Author     : nicolas.geraudie
+*/
+
+.firstletter
+{
+    color: blue;
+    font-size: 2em;
+}
+
+#differentfont
+{
+    font-family: Arial Black;
+}
+
+h1
+{
+    text-align: center;
+}
+
+body
+{
+background-image: url("https://qph.fs.quoracdn.net/main-qimg-041249f8b8cc9145e9ab7eb940768305");
+}
+
+p
+{
+opacity:0.8;
+}
+
+li#desserts
+{
+border: 3px red dashed;
+}
+
+h1:hover
+{
+    color: blue;
+}
